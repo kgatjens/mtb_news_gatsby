@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import {graphql,StaticQuery} from 'gatsby'//allow to use the graphql, and the static query build the objects to consume
+
 
 const IndexPage = () => (
   <Layout>
