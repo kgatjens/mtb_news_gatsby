@@ -19,3 +19,5 @@ Simple example of how to use Gatsby to render static pages in the server side co
     ```
 
 
+![MTB news example](https://https://github.com/kgatjens/mtb_news_gatsby/blob/master/image6.png)
+
