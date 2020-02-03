@@ -7,7 +7,7 @@ Simple example of how to use Gatsby to render static pages in the server side co
 
 
 
-## 🚀 Quick start
+## Instructions:
 
 1.  **Follow this blog post for more infoL:**
 
